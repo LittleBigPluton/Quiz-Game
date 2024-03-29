@@ -1,0 +1,31 @@
+Index,Question,Category,Option A,Option B,Option C,Option D,Answer
+1,Who invented the telephone?,History,Graham Bell,Edison,Newton,Steve Jobs,Graham Bell
+2,What is the capital of France?,Geography,Madrid,Berlin,Paris,Rome,Paris
+3,Who wrote 'Romeo and Juliet'?,Literature,Charles Dickens,William Shakespeare,Jane Austen,Mark Twain,William Shakespeare
+4,What gas do plants absorb from the atmosphere for photosynthesis?,Science,Oxygen,Nitrogen,Carbon Dioxide,Hydrogen,Carbon Dioxide
+5,Who painted the Mona Lisa?,Art,Vincent Van Gogh,Pablo Picasso,Leonardo da Vinci,Claude Monet,Leonardo da Vinci
+6,What is the largest planet in our Solar System?,Astronomy,Earth,Mars,Jupiter,Saturn,Jupiter
+7,In what year did the Titanic sink?,History,1912,1905,1898,1923,1912
+8,What is the chemical symbol for water?,Chemistry,H2O,CO2,NaCl,O2,H2O
+9,Who is known as the father of computers?,Technology,Albert Einstein,Charles Babbage,Nikola Tesla,Thomas Edison,Charles Babbage
+10,What is the hardest natural substance on Earth?,Geology,Diamond,Gold,Iron,Quartz,Diamond
+11,Who is the author of 'The Theory of Relativity'?,Physics,Isaac Newton,Galileo Galilei,Albert Einstein,Nikola Tesla,Albert Einstein
+12,Which country is known as the Land of the Rising Sun?,Geography,China,Japan,South Korea,India,Japan
+13,What is the human body's largest organ?,Biology,Heart,Skin,Liver,Brain,Skin
+14,Who composed the Four Seasons?,Music,Ludwig van Beethoven,Johann Sebastian Bach,Antonio Vivaldi,Wolfgang Amadeus Mozart,Antonio Vivaldi
+15,What currency is used in Japan?,Economics,Dollar,Euro,Yuan,Yen,Yen
+16,Which element has the chemical symbol 'O'?,Chemistry,Oxygen,Gold,Iron,Helium,Oxygen
+17,What year did World War I begin?,History,1914,1905,1939,1918,1914
+18,Who is the main character in 'The Catcher in the Rye'?,Literature,Holden Caulfield,Jay Gatsby,Atticus Finch,Harry Potter,Holden Caulfield
+19,What is the capital of Japan?,Geography,Seoul,Beijing,Tokyo,Bangkok,Tokyo
+20,What is the speed of light?,Physics,"299,792 km/s","150,000 km/s","1,080 km/h",Speed of sound,"299,792 km/s"
+21,Which planet is known as the Red Planet?,Astronomy,Mars,Jupiter,Saturn,Venus,Mars
+22,Who developed the theory of general relativity?,Science,Isaac Newton,Albert Einstein,Niels Bohr,Galileo Galilei,Albert Einstein
+23,What is the formula for calculating the area of a circle?,Mathematics,πr^2,2πr,πd,r^2,πr^2
+24,Who is known as the Queen of Pop?,Music,Whitney Houston,Madonna,Lady Gaga,Beyoncé,Madonna
+25,What does DNA stand for?,Biology,Deoxyribonucleic Acid,Ribonucleic Acid,Deoxyribose Nuclear Acid,Dual Neuron Activation,Deoxyribonucleic Acid
+26,What is the largest desert in the world?,Geography,Sahara,Arabian,Gobi,Antarctic,Antarctic
+27,Who discovered penicillin?,Medicine,Alexander Fleming,Marie Curie,Louis Pasteur,Joseph Lister,Alexander Fleming
+28,What is the square root of 144?,Mathematics,12,14,13,11,12
+29,Who was the first woman to win a Nobel Prize?,History,Marie Curie,Rosalind Franklin,Ada Lovelace,Dorothy Hodgkin,Marie Curie
+30,Which is the smallest planet in our solar system?,Astronomy,Mercury,Mars,Earth,Venus,Mercury
